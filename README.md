@@ -1,3 +1,3 @@
-# b7a6-ai-universe-assignment-syedmirhabib
+# AI World
 
 Live Website link: https://aiworld.sosamson.com/
